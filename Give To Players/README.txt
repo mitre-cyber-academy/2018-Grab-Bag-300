@@ -1,0 +1,1 @@
+Run preInstal.sh to install BossBattle.deb
