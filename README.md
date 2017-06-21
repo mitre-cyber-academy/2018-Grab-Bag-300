@@ -1,4 +1,4 @@
-# Impossible Boss Battle
+# Impossible Boss Battle 
 
 ## How to Solve
 
