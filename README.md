@@ -1,5 +1,10 @@
 # Impossible Boss Battle 
 
+## How to Run
+
+1. Run preInstal.sh this installs 32 bit libraries that the game needs
+1.once it is complete the game will run automatically and should also be fully installed with a icon to re-run 
+
 ## How to Solve
 
 1. Start the game and run to hide behind a wall
